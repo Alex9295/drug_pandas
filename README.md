@@ -14,13 +14,13 @@ Heroin
 The Jupyter notebook (Data9.ipynb) includes data loading, basic statistics, and visualizations (e.g., a pie chart of yearly distributions).
 
 
-📂 Dataset
+## 📂 Dataset
 File: drug-overdose-death-rates-new.csv
 Source: CDC WONDER (Centers for Disease Control and Prevention)
 
 Columns:
-Column Name	Description
-Entity	Country (United States)
+.- Column Name	Description
+.- Entity	Country (United States)
 Code	Country code (USA)
 Year	1999–2020
 Any opioid death rates	Deaths per 100,000 (CDC WONDER)
