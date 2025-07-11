@@ -19,8 +19,8 @@ File: drug-overdose-death-rates-new.csv
 Source: CDC WONDER (Centers for Disease Control and Prevention)
 
 Columns:
-.- Column Name	Description
-.- Entity	Country (United States)
+Column Name	Description
+Entity	Country (United States)
 Code	Country code (USA)
 Year	1999–2020
 Any opioid death rates	Deaths per 100,000 (CDC WONDER)
@@ -31,21 +31,21 @@ Prescription Opioids death rates	Deaths per 100,000
 🔍 Key Insights (Preview)
 Yearly Distribution:
 
-Pie chart showing the proportion of data entries per year.
+## Pie chart showing the proportion of data entries per year.
 
 (Expandable with trends/peaks in specific drug categories.)
 
-Statistical Summary:
+## Statistical Summary:
 
 Pandas’ describe() used to show mean, min/max death rates, etc.
 
-🛠️ Setup & Usage
+## 🛠️ Setup & Usage
 Prerequisites
 Python 3.8+
 
 Libraries: pandas, matplotlib, jupyter
 
-Installation
+## Installation
 bash
 git clone https://github.com/yourusername/drug-overdose-analysis.git  
 cd drug-overdose-analysis  
