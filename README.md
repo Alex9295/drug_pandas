@@ -19,17 +19,17 @@ File: drug-overdose-death-rates-new.csv
 Source: CDC WONDER (Centers for Disease Control and Prevention)
 
 Columns:
-Column Name	Description
-Entity	Country (United States)
-Code	Country code (USA)
-Year	1999–2020
-Any opioid death rates	Deaths per 100,000 (CDC WONDER)
-Cocaine overdose death rates	Deaths per 100,000
-Heroin overdose death rates	Deaths per 100,000
-Synthetic opioids death rates	Deaths per 100,000
-Prescription Opioids death rates	Deaths per 100,000
-🔍 Key Insights (Preview)
-Yearly Distribution:
+    Column Name	Description
+    Entity	Country (United States)
+    Code	Country code (USA)
+    Year	1999–2020
+    Any opioid death rates	Deaths per 100,000 (CDC WONDER)
+    Cocaine overdose death rates	Deaths per 100,000
+    Heroin overdose death rates	Deaths per 100,000
+    Synthetic opioids death rates	Deaths per 100,000
+    Prescription Opioids death rates	Deaths per 100,000
+    🔍 Key Insights (Preview)
+    Yearly Distribution:
 
 ## Pie chart showing the proportion of data entries per year.
 
